@@ -1,0 +1,9 @@
+;周期性付费
+
+2023-09-23 * "" "信用卡还款"
+ Assets:Bank:BOCOM:9162                      -108.49 CNY
+ Liabilities:Bank:BOCOM:5073                  108.49 CNY
+
+2023-09-23 * "" "花呗还款"
+	Assets:Bank:BOCOM:9162                       -246.34 CNY
+	Liabilities:Alipay:HUABEI                    246.34 CNY

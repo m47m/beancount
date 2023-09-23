@@ -1,0 +1,9 @@
+;something want to buy
+
+2023-09-19 * "" "闲鱼购买 pixelbook go i5"
+		Assets:Bank:BOCOM:9162                     -899.00 CNY
+		Expenses:Want                               899.00 CNY
+
+2023-09-23 * "" "淘宝购买 脖子靠枕"
+		Liabilities:Bank:BOCOM:5073                 -64.00 CNY
+		Expenses:Want                                64.00 CNY

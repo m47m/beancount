@@ -1,0 +1,37 @@
+;账户初始化
+2020-04-01 * "" "三江源、大熊猫纪念币"
+		Assets:Cash  																 300 CNY
+		Equity:OpenBalance                          -300 CNY
+
+2020-04-01 * "" "支付宝初始余额0.57元"
+		Assets:Alipay                                1.57 CNY
+		Equity:OpenBalance                          -1.57 CNY
+
+2020-04-01 * "" "中国银行 银行卡3855 0.28元"
+		Assets:Bank:BOC:3855                          0.28 CNY
+		Equity:OpenBalance                           -0.28 CNY
+
+2020-04-01 * "" "交通银行 银行卡2624.39元"
+		Assets:Bank:BOCOM:9162                     2624.39 CNY
+		Equity:OpenBalance                        -2624.39 CNY
+
+2020-04-01 * "" "交通银行 银行卡（个人养老金）0.00元"
+		Assets:Bank:BOCOM:3330                        0.00 CNY
+		Equity:OpenBalance                           -0.00 CNY
+
+2020-04-01 * "" "中国工商银行 银行卡6024.88元"
+		Assets:Bank:ICBC:9074                      6024.88 CNY 
+		Equity:OpenBalance                        -6024.88 CNY
+
+2020-04-01 * "" "微信初始余额0.30元"
+		Assets:WeChat                                 0.30 CNY
+		Equity:OpenBalance                           -0.30 CNY
+
+2020-04-01 * "" "花呗初始账单1419.30元"
+		Liabilities:Alipay:HUABEI                 -1419.30 CNY
+		Equity:OpenBalance                         1419.30 CNY
+
+2020-04-01 * "" "交通银行信用卡437.51元"
+		Liabilities:Bank:BOCOM:5073                -437.51 CNY
+		Equity:OpenBalance                          437.51 CNY
+

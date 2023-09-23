@@ -1,0 +1,27 @@
+
+; 开户日期  开户命令    账户名称     货币类型
+2019-04-01 open Assets:Bank:ICBC:9074 CNY
+2019-04-01 open Assets:Bank:BOC:3855 CNY
+2019-04-01 open Assets:Bank:BOCOM:9162 CNY
+2019-04-01 open Assets:Bank:BOCOM:3330 CNY
+2019-04-01 open Assets:Cash CNY
+
+2019-04-01 open Assets:WeChat CNY
+2019-04-01 open Assets:Alipay CNY
+
+2019-04-01 open Liabilities:Bank:BOCOM:5073 CNY
+2019-04-01 open Liabilities:Alipay:HUABEI CNY
+
+2019-04-01 open Expenses:Daily CNY
+2019-04-01 open Expenses:Want CNY
+2019-04-01 open Expenses:Cycle CNY
+2019-04-01 open Expenses:Project CNY
+2019-04-01 open Expenses:Travel CNY
+
+2019-04-01 open Income:Salary CNY
+2019-04-01 open Income:Interest CNY
+
+2019-04-01 open Equity:OpenBalance CNY ;用于账户初始化
+
+
+

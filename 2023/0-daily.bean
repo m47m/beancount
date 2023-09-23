@@ -1,0 +1,36 @@
+;日常消费
+2023-09-17 * "" "test"
+	Assets:Alipay                                 -1.00 CNY
+	Expenses:Daily                                 1.00 CNY
+
+2023-09-20 * "" "电费充值 使用交通银行消费卷 58元"
+	Assets:Bank:BOCOM:9162                        -1.00 CNY
+	Expenses:Daily                                 1.00 CNY
+
+2023-09-21 * "" "存款利息"
+	Assets:Bank:BOCOM:9162                         0.52 CNY
+	Income:Interest                               -0.52 CNY
+
+2023-09-21 * "" "pixelbook 邮费23元"
+	Assets:Bank:BOCOM:9162                       -22.97 CNY
+	Expenses:Daily                                22.97 CNY
+
+2023-09-21 * "" "9823 话费充值 10.00元"
+	Assets:Bank:ICBC:9074                         -9.98 CNY
+	Expenses:Daily                                 9.98 CNY
+
+2023-09-21 * "" "存款利息"
+	Assets:Bank:ICBC:9074                          0.99 CNY
+	Income:Interest                               -0.99 CNY
+
+2023-09-22 * "" "外卖"
+ Assets:Bank:BOCOM:9162                       -11.00 CNY
+ Expenses:Daily                                11.00 CNY
+
+2023-09-23 * "" "午餐"
+	Assets:Bank:BOCOM:9162                       -17.00 CNY
+	Expenses:Daily                                17.00 CNY
+
+2023-09-23 * "" "外卖"
+  Assets:Bank:BOCOM:9162                      -13.20 CNY
+	Expenses:Daily                                13.20 CNY

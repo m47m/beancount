@@ -1,0 +1,11 @@
+;【一、账本信息】
+option "title" "我的账本" ;账本名称
+option "operating_currency" "CNY" ;账本主货币
+
+
+include "accounts.bean"
+
+include "init.bean"
+
+include "2023/2023.bean"
+

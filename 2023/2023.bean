@@ -1,0 +1,5 @@
+include "0-daily.bean"
+include "1-want.bean"
+include "2-cycle.bean"
+include "3-project.bean"
+include "4-travel.bean"

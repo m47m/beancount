@@ -1,0 +1,24 @@
+;出行付费
+
+2023-09-19 * "" "国庆车票候补退款"
+		Assets:Bank:BOCOM:9162                     +293.00 CNY
+		Equity:OpenBalance                         -293.00 CNY
+
+2023-09-19 * "" "国庆车票候补退款"
+		Assets:Bank:BOCOM:9162                     +293.00 CNY
+		Equity:OpenBalance                         -293.00 CNY
+
+2023-09-19 * "" "国庆车票"
+		Assets:Bank:BOCOM:9162                     -148.50 CNY
+		Expenses:Travel                             148.50 CNY
+	
+2023-09-21 * "" "国庆车票"
+		Assets:Bank:BOCOM:9162                     -119.00 CNY
+		Expenses:Travel                             119.00 CNY
+
+2023-09-22 * "" "国庆车票"
+		Assets:Bank:BOCOM:9162                     -293.00 CNY
+		Expenses:Travel                             293.00 CNY
+		
+		
+		
