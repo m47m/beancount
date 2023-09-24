@@ -34,3 +34,11 @@
 2023-09-23 * "" "外卖"
   Assets:Bank:BOCOM:9162                      -13.20 CNY
 	Expenses:Daily                                13.20 CNY
+
+2023-09-24 * "" "机场 sledCloud"
+ Assets:Bank:BOCOM:9162                       -13.76 CNY
+ Expenses:Daily                                13.76 CNY
+
+2023-09-24 * "" "午餐"
+ Assets:Bank:BOCOM:9162                       -13.00 CNY
+ Expenses:Daily                                13.00 CNY 

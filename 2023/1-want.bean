@@ -7,3 +7,7 @@
 2023-09-23 * "" "淘宝购买 脖子靠枕"
 		Liabilities:Bank:BOCOM:5073                 -64.00 CNY
 		Expenses:Want                                64.00 CNY
+
+2023-09-23 * "" "桌子"
+		Assets:Bank:ICBC:9074                       -68.52 CNY
+		Expenses:Want                                68.52 CNY
