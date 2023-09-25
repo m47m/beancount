@@ -42,3 +42,7 @@
 2023-09-24 * "" "午餐"
  Assets:Bank:BOCOM:9162                       -13.00 CNY
  Expenses:Daily                                13.00 CNY 
+
+2023-09-25 * "" "身份证复印"
+    Assets:Bank:BOCOM:9162                      -1.00 CNY
+	Expenses:Daily                                 1.00 CNY
