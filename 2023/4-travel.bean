@@ -18,7 +18,16 @@
 
 2023-09-22 * "" "国庆车票"
 		Assets:Bank:BOCOM:9162                     -293.00 CNY
-		Expenses:Travel                             293.00 CNY
+		Expenses:Travel                             293.00 CNY	
+
+2023-09-27 * "" "国庆车票候补退票"  
+    	Assets:Bank:BOCOM:9162                     +293.00 CNY
+		Expenses:Travel                            -293.00 CNY	
+
+2023-09-27 * "" "国庆车票候补退票"
+    	Assets:Bank:BOCOM:9162                     +148.50 CNY
+		Expenses:Travel                            -148.50 CNY	
+		
 		
 		
 		

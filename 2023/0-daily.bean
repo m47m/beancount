@@ -46,3 +46,47 @@
 2023-09-25 * "" "身份证复印"
     Assets:Bank:BOCOM:9162                      -1.00 CNY
 	Expenses:Daily                                 1.00 CNY
+
+2023-09-26 * "" "烤肠"
+    Assets:Bank:BOCOM:9162                     -5.00 CNY
+	Expenses:Daily                                 5.00 CNY
+
+2023-09-28 * "" "早餐"
+    Assets:Bank:BOCOM:9162                     -5.50 CNY
+	Expenses:Daily                                 5.50 CNY
+
+2023-09-28 * "" "午餐"
+    Assets:Bank:BOCOM:9162                     -17.00 CNY
+	Expenses:Daily                                 17.00 CNY
+
+2023-09-28 * "" "晚餐"
+    Assets:Bank:BOCOM:9162                    -28.00 CNY
+	Expenses:Daily                                28.00 CNY
+
+2023-09-29 * "" "午餐"
+    Assets:Bank:BOCOM:9162                    -17.00 CNY
+	Expenses:Daily                                17.00 CNY
+
+2023-09-29 * "" "B站 礼物"
+    Assets:Bank:BOCOM:9162                   -138.00 CNY
+	Expenses:Daily                               138.00 CNY
+
+2023-09-30 * "" "午餐"
+    Assets:Bank:BOCOM:9162                    -17.00 CNY
+	Expenses:Daily                                17.00 CNY
+
+2023-09-30 * "" "地铁费用"
+	Assets:Bank:BOCOM:9162                        -5.43 CNY
+	Expenses:Daily                                 5.43 CNY
+
+2023-09-30 * "" "柿饼"
+    Assets:Bank:BOCOM:9162                    -28.00 CNY
+	Expenses:Daily                                28.00 CNY
+
+2023-09-30 * "" "晚餐"
+    Assets:Bank:BOCOM:9162                    -38.00 CNY
+	Expenses:Daily                                38.00 CNY
+
+2023-09-30 * "" "哈啰单车 月卡"
+    Liabilities:Bank:BOCOM:5073                    -16.00 CNY
+	Expenses:Daily                                16.00 CNY
